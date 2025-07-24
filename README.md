@@ -8,5 +8,6 @@
 
 [Histogram, Line Plot, and Autocorrelation of Biking vs. Running](run_vs_bike_hist_line_autocorrelion.ipynb#section_id4)
 
+
 ### Explanation of some of the metrics from STRYD
-([Stryd Metrics](https://help.stryd.com/en/articles/6879522-stryd-metrics#h_bfbf8c0c09))
+[Stryd Metrics](https://help.stryd.com/en/articles/6879522-stryd-metrics#h_bfbf8c0c09)
