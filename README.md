@@ -1,3 +1,3 @@
-# siads521_assignment4
+# SIADS 521 Assignment 4
 
-(another_notebook.ipynb#section_id)
+[To Some Internal Section](another_notebook.ipynb#section_id)
