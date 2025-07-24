@@ -20,5 +20,6 @@ Activate the env using the following in your terminal: `source venv/bin/activate
 
 Install all dependencies using the following in your terminal: `pip install -r requirements.txt`
 
-### Explanation of some of the metrics from STRYD
+## Explanation of some of the metrics from STRYD
+
 [Stryd Metrics](https://help.stryd.com/en/articles/6879522-stryd-metrics#h_bfbf8c0c09)
