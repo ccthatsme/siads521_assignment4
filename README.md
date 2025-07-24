@@ -6,4 +6,4 @@
 
 [Correlation Heatmap for Running Metrics](heatmap.ipynb#section_id3)
 
-[Histogram, Line Plot, and Autocorrelation of Biking vs. Running](run_vs_bike_hist_line_autocorrelion.ipynb.ipynb#section_id4)
+[Histogram, Line Plot, and Autocorrelation of Biking vs. Running](run_vs_bike_hist_line_autocorrelion.ipynb#section_id4)
